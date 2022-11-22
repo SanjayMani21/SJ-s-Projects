@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TripWallet:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TripWallet_jar</output-path>
+    <root id="archive" name="TripWallet.jar">
+      <element id="module-output" name="TripWallet" />
+    </root>
+  </artifact>
+</component>
